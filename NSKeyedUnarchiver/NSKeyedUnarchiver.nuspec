@@ -2,15 +2,15 @@
 <package >
   <metadata>
     <id>$id$</id>
-    <version>1.1.3</version>
+    <version>1.0.0</version>
     <title>$title$</title>
-    <authors>Peng Wang</authors>
-    <owners>Peng Wang</owners>
-    <projectUrl>https://github.com/tiancaihb/NSKeyedUnarchiver</projectUrl>
+    <authors>Daniel Wall, Peng Wang</authors>
+    <owners>Daniel Wall, Peng Wang</owners>
+    <projectUrl>https://github.com/wall-daniel/NSKeyedUnarchiverNetStandard</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <description>Read NSKeyedArchiver generated plists.</description>
+    <description>Read NSKeyedArchiver generated plists. From original project here: "https://github.com/tiancaihb/NSKeyedUnarchiver".</description>
     <releaseNotes>Add a helper class to read from DeepParse results.</releaseNotes>
     <copyright>Copyright 2017</copyright>
     <tags>NSKeyedUnarchiver plist</tags>
   </metadata>
-</package>
+</package> 
